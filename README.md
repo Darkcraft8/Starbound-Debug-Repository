@@ -1,2 +1,2 @@
-# Starbound-Server-Config-Repository
-contain my server configs files and some log for debugging
+# Darkcraft8 Starbound Debug Repository
+Contain files and sometime screenshot of issues i found either from mod or server
