@@ -1,0 +1,9 @@
+{
+	"15/03/2026" : {
+		"shortdescription" : "couldn't connect to server due to a client packet exception",
+		"hypotesis" : [
+			"missingMods" : "false",
+			"inventoryModIsntClientSided" : "unknown"
+		]
+	}
+}
