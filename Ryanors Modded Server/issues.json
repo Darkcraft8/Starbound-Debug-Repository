@@ -3,7 +3,7 @@
 		"shortdescription" : "couldn't connect to server due to a client packet exception",
 		"hypotesis" : [
 			"missingMods" : "false",
-			"inventoryModIsntClientSided" : "unknown"
+			"inventoryModIsntClientSided" : "true, inventory slot aren't client sided, require both the client and server to have the same number of slot"
 		]
 	}
 }
